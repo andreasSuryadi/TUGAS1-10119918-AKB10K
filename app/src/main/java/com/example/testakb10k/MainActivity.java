@@ -4,6 +4,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * NIM                      : 10119918
+ * Nama                     : Andreas Suryadi
+ * Kelas                    : IF-10K
+ * Tanggal Pengerjaan       : 18 April 2022
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
