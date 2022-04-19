@@ -1,4 +1,4 @@
-package com.example.testakb10k;
+package com.example.a10119918latihan1;
 
 import org.junit.Test;
 
